@@ -1,5 +1,9 @@
 # praktikum4
 
+## NAMA:MUHAMAD ABDUL ANAS
+## NIM:312210269
+## KELAS:TI.22.A2
+
 # Latihan 1
 
 # Program Sederhana Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5

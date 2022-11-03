@@ -43,3 +43,22 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 ## D. Hasil
 
 ![gambar](pyt3.png)
+
+# Latihan 2
+
+# Program Sederhana Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
+
+## A. Algoritma Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
+
+1. mulai
+2. input bilangan N
+3. Jika max < a maka akan lanjut pengulangan
+4.Jika a==0 maka akan berhenti proses pengulangan
+5. Dan mencetak hasil nilai maxium dari N yang di isikan
+6. Selesai
+
+Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya Kita Membuat Flowchartnya. Berikut ini Flowchart Program 
+
+## B. Flowchart Program
+
+
